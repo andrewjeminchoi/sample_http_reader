@@ -1,4 +1,4 @@
-# sample_http_reader
+# simple-bottle-form
 Using Bottle to read inputs from HTTP
 
 ### Run the program
